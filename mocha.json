@@ -1,9 +1,9 @@
 {
-    "name": "Catppuccin Mocha",
+    "name": "Catppuccin Mocha Wallpaper",
     "description": "Soothing pastel theme for the high-spirited!",
     "authors": [
       {
-        "name": "Catppuccin"
+        "name": "Catppuccin, Mopi"
       }
     ],
     "semanticColors": {
@@ -186,5 +186,10 @@
           "StatusOnline": "#a6e3a1"
  }
 },
+    	"background": {
+		"blur": 0.0,
+		"url": "https://raw.githubusercontent.com/MopigamesYT/vendetta-catppuccin/main/waves_up_color.png",
+		"alpha": 0.45
+	},
     "spec": 2
 }
